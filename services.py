@@ -1,2 +1,2 @@
-from constants import ONLINE_STATE
-print(ONLINE_STATE)
+from constants import LOG_DIR
+print(LOG_DIR)
